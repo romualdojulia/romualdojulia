@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Julia Romualdo 😊
 
-Tenho 17 anos e sou estudante do 3° ano de técnico informática no Intitudo Federal de Educação, Ciência e Tecnologia de São Paulo 👩‍💻
+Tenho 18 anos e sou estudante do 4° ano de técnico informática no Intitudo Federal de Educação, Ciência e Tecnologia de São Paulo 👩‍💻
 
 <div align="center">
   <a href="https://github.com/romualdojulia">
